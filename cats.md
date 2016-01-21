@@ -1,1 +1,2 @@
 * Tabby
+* Maine Coon
